@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cizgiFilmInDownloader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cizgiFilmInDownloader_jar</output-path>
+    <root id="archive" name="cizgiFilmInDownloader.jar">
+      <element id="module-output" name="cizgiFilmInDownloader" />
+      <element id="module-test-output" name="cizgiFilmInDownloader" />
+    </root>
+  </artifact>
+</component>
